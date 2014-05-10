@@ -1,7 +1,7 @@
 Zebra
 =====
 
-![magnetic_stripe_prototype](https://cloud.githubusercontent.com/assets/171040/2937244/e2c49370-d891-11e3-9115-5c3a07bfed33.jpg)
+[![magnetic_stripe_prototype](https://cloud.githubusercontent.com/assets/171040/2937244/e2c49370-d891-11e3-9115-5c3a07bfed33.jpg)](https://en.wikipedia.org/wiki/File:Magnetic_stripe_prototype.jpg)
 
 An alternative to [Stripe.js](https://stripe.com/docs/stripe.js) for card validation and token creation.
 
